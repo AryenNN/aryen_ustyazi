@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans');
+body{
+  background: transparent !important;
+}
+span{
+  color: rgb(255, 255, 255) !important;
+}
+h1{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1.6rem;
+  font-family: 'Black Han Sans', sans-serif;
+  color: red !important;
+}
+h22{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-size: 0.7rem;
+  font-family: 'Black Han Sans', sans-serif;
+  color: red !important;
+}
+#horario h3{
+  -webkit-font-smoothing: antialiased;
+  font-size: 0.8rem;
+  color: white;
+}
